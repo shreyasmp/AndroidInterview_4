@@ -1,0 +1,1 @@
+# Simple Android app project that was asked during Robinhood technical phone screen. This app serves as based for completing a app in much lower time but maintaining core architecture of mvvm without employing DI, Repository and other time consuming stuff.
